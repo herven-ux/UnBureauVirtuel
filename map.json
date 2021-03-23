@@ -41,6 +41,17 @@
         }, 
         {
          "draworder":"topdown",
+         "id":3,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":16,
          "name":"JitsiLayer",
          "objects":[
@@ -88,17 +99,6 @@
                  "type":"string",
                  "value":"onaction"
                 }],
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":3,
-         "name":"floorLayer",
-         "objects":[],
-         "opacity":1,
          "type":"objectgroup",
          "visible":true,
          "x":0,
